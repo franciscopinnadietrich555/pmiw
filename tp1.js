@@ -1,3 +1,10 @@
+/*
+ Alumno: Francisco Pinna Dietrich 90949/5
+ COM 3
+ TP 1
+ Link al video:https://youtu.be/GLnCM8DckUg
+ */
+
 // DECLARACION
 let vasarely;
 let cant = 40;
