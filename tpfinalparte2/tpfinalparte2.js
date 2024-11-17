@@ -1,3 +1,7 @@
+// Trabajo Final Parte 1
+// Alumnos: Francisco Pinna Dietrich y Emilia Ponisio
+//Comision 3
+//Link al video: https://youtu.be/fNhdi_Pgfc8
 let medusas = [];
 let jugador;
 let estado = "inicio";
